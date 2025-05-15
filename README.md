@@ -61,4 +61,4 @@ Host: 127.0.0.1:8000
 - **Uvicorn** : Serveur ASGI pour exécuter l'API.
 
 ## Auteur
-Ce projet a été réalisé par [Votre Nom].
+Ce projet a été réalisé par Anselme KABRAN.
